@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "861431092600",
+    "firebase_url": "https://thethaapp.firebaseio.com",
+    "project_id": "thethaapp",
+    "storage_bucket": "thethaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861431092600:android:7580623088f07ae176a48d",
+        "android_client_info": {
+          "package_name": "com.test.thetha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861431092600-5j3a3p83eg5k9g71aee99o9p7j72lptt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.thetha",
+            "certificate_hash": "2075aa0353c2e42677dbe5f93b447623d4d3ebc3"
+          }
+        },
+        {
+          "client_id": "861431092600-qupp7ptj2k4143gg0tl6a61pdl6pd7jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7dLRsXi8fG4UYl_zbUioZuVdZGjIlXWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861431092600-qupp7ptj2k4143gg0tl6a61pdl6pd7jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
